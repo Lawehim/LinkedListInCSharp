@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\pract\pract\bin\Debug\netcoreapp3.1\pract.exe
+C:\Users\hp\source\repos\pract\pract\bin\Debug\netcoreapp3.1\pract.deps.json
+C:\Users\hp\source\repos\pract\pract\bin\Debug\netcoreapp3.1\pract.runtimeconfig.json
+C:\Users\hp\source\repos\pract\pract\bin\Debug\netcoreapp3.1\pract.runtimeconfig.dev.json
+C:\Users\hp\source\repos\pract\pract\bin\Debug\netcoreapp3.1\pract.dll
+C:\Users\hp\source\repos\pract\pract\bin\Debug\netcoreapp3.1\pract.pdb
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.AssemblyInfo.cs
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.dll
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.pdb
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.genruntimeconfig.cache
+C:\Users\hp\source\repos\pract\pract\obj\Debug\netcoreapp3.1\pract.csproj.AssemblyReference.cache
