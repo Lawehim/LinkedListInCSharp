@@ -7,8 +7,8 @@ namespace AccessSpecifiers
         static void Main(string[] args)
         {
             SingleLinkedList lst = new SingleLinkedList();
-            lst.AddToFisrt(34);
             lst.AddToLast(23);
+            lst.AddToLast(34);
             lst.AddToFisrt(9);
             lst.ReadAll();
         }
